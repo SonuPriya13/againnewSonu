@@ -1,0 +1,28 @@
+{
+  "name": "tom1",
+  "version": "1.0.0",
+  "description": "Working in branch project1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonuPriya13/againnewSonu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SonuPriya13/againnewSonu/issues"
+  },
+  "homepage": "https://github.com/SonuPriya13/againnewSonu#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4",
+    "should": "^13.2.3",
+    "supertest": "^4.0.2"
+  }
+}
