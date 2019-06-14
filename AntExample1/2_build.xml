@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<project name="hello world project" default="info">
+<property name="site name" value="www.tutorials.com"/>
+<target name="info">
+<echo>apache ant version is ${ant.version}-you are at ${site name}</echo>
+</target>
+</project>
