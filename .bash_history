@@ -88,3 +88,15 @@ vi app.js
 pm2 start app.js
 apt-get install pm2
 exit
+npm i -g mocha
+exit
+ls -;rt
+ls -lrt
+mocha
+cd ../lib
+cd lib
+ls -lrt
+exit
+ls -lrt
+mocha
+watch uptime
