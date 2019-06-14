@@ -100,3 +100,57 @@ exit
 ls -lrt
 mocha
 watch uptime
+;ls -lrt
+ls -lrt
+mocha
+watch uptime
+ls -lrt
+git clone https://github.com/SonuPriya13/againnewSonu.git
+cd againnewSonu
+git clone git@github.com:SonuPriya13/againnewSonu.git
+ls -lrt
+cd againnewSonu
+ls -lrt
+cd ..
+cd againnewSonu/
+ls -lrt
+cd ..
+lsl -lrt
+ls -lrt
+cd ..
+ls -lrt
+git status -s
+ls -lrt
+vi app.js
+git add .
+git commit -m "pushing"
+git push origin master
+git pull origin master
+ls -lrt
+git status -s
+git add .
+git commit -m "code"
+git push origin mastr
+git push origin master
+ls -lrt
+cd test
+ls -lrt
+git pull origin master
+npm i -g mocha
+cd /usr/local/lib/node_modules/mocha
+cd ..
+ls -lrt
+chmod 777 mocha
+exit
+ls -lrt
+cd test
+ls -lrt
+mocha
+npm i -g mocha
+exit
+ls ls -lrt
+ls -lrt
+cd test
+ls -lrt
+npm i -g mocha
+exit
